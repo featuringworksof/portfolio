@@ -18,7 +18,7 @@ const App = () => {
   return (
     <>
       <Helmet>
-        <title>Moonex - Portfolio & Agency React Template</title>
+        <title>Featuring Works Of Rizza Louise Sy</title>
         <meta name="description" content="Portfolio & Agency React Template" />
         <meta
           name="keywords"
