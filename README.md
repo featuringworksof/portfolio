@@ -6,7 +6,7 @@ About: User Experience, Design Operations, Design Systems, Human-Centered Design
 ## Rizza Louise Sy
 
 ### Senior UX Designer (Acting Chapter Lead)
-Unified Design Systems, ING Group
+Unified Design Systems, ING Hub
 May 2021 - Present
 
 ###  Design Systems and Operations Lead
