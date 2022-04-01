@@ -1,4 +1,4 @@
-> **👷🏽‍♀️ Site is still under construction.**
+> **👷🏽‍♀️  Site is still under construction.**
 
 # Welcome to Portfolio of Rizza Louise Sy
 

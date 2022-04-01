@@ -40,7 +40,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "main -d build",
+    "deploy": "main -d build  && gh-pages -d dist -b main",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
