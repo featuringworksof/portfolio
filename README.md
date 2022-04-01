@@ -7,9 +7,9 @@ Designer with over 12 years of experience
 About: User Experience, Design Operations, Design Systems, Human-Centered Design, Components Design and Documentation, Systems Design, Frontend Development, Prototypes, Design Language
 
 ## Currently studying:
-Scholarship Deque University
-Data Analytics by Google (scholarship through Coursera)
-Systems Thinking - Linkedin
+- Scholarship Deque University
+- Data Analytics by Google (scholarship through Coursera)
+- Systems Thinking - Linkedin
 
 
 ## Career Overview
