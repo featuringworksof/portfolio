@@ -4,8 +4,8 @@
 
 **Designing experiences with focus on aesthetics, usability and accessibility.**
 
-LinkedIn [profile](https://www.linkedin.com/in/rizzasy/)
-Current Project [DesignSystems.Org](designsystems.org)
+LinkedIn [profile](https://www.linkedin.com/in/rizzasy/)<br>
+Current Project [DesignSystems.Org](designsystems.org)<br>
 Email <louise@featuringworksof.me>
 
 Designer with over 12 years of experience
