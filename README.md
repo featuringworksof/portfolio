@@ -66,22 +66,66 @@ August 2016 - September 2017
 ###  Designer - UX
 Freelancer LTD Philippines
 November 2014 - August 2016
+Freelancer.com (Freelancer Technology Pty Limited - ACN 142 189 759) is the world's largest freelancing and crowdsourcing marketplace, connecting over 16 Million members globally.
 
+- Worked on Information Architecture - Navigation and Content Strategy of Freelancer.com
+- Worked on UX Internship Program Design
+- Persona Development for Freelancer.com (1) Projects and (2) Contests, Freelancer and Employer
+- Pushed forward for Agile UX 
+- Institutionalisation of UX - Collaborative Design/Requirements Workshop
+
+Projects Completed and Accomplishments:
+- Ran a full-cycle Design Sprint for Desktop App Product Group
+- Facilitated Usability Testing sessions
+- Trained QAs to be UX Converts through Lean UX Workshops
+- Designed UX of Desktop App (https://www.freelancer.com/desktop-app/)
+- Designed and Mapped Flow Diagram of Freelancer.com's User Journey
+- Developed Training Modules for people on Usability Testing
+- Managed Resources for Pilot Usability Team, composed of five people
+- Map experiences of Freelancer.com Mobile Apps (iOS, Android, and Mobile Web)
+- Experience map of Freelancer.com Messaging
+
+Skills Employed:
+User Research - Ethnography, User Testing
+Build Prototype and Wireframes - Keynote, Sketch 3, Axure RP, Invision and Pixate
+Stakeholder Interviews
+Usage Analysis
 - 
 
 ### UX Designer
 Project-based
 Entertainment Gateway Group (EGG - Subsidiary of Globe Telecom)
 March 2014 - July 2014
+- Direct report to the Engineering Manager. Worked with the Marketing and Engineering teams in defining the business requirements.
+- Provided design direction to a team of 4 iOS engineers, 3 Android engineers, 2 QAs and one graphic designer.
+- Responsible for User Research. Conducted surveys and interviews to gather insights from users. Collated feedback in the App Store and Play Store. Joined inter-company meetings to gather information about the movies, cinema seats reservation and payments section. This helped prioritize which features to include in Minimum Viable Product (MVP).
+- Presented initial wireframes and mockups of GMovies (gmovies.ph) to the Business Director and Engineering Manager which helped improve user sign up flow.
+- Iterated through collaborative design with the engineers. Produced high level wireframes, mockups and prototypes that meet brand standards, user goals and business objectives. Defined UI patterns, visual standards and interaction design for web and mobile.
 
 ###  Digital Lead
 Wunderman Philippines
 October 2012 - April 2014
+- Led a team of Senior Developers (1 from the Philippines and 4 from India).
+- Responsible for assigning tasks/tickets, peer-reviewing, and coaching best design practice and optimal frontend development.
+- Managed Blogs for Microsoft (Asia Futures Magazine) and coordinated changes with the Head of Marketing of Microsoft - Singapore.
+- Spearheaded documentation and module development in the company.
+- Developed web template modules (HTML codes) which set a company-wide standard. These template modules fast-tracked frontend development and maintenance from a 3-Day Service Level Agreement (SLA) to 1-Day SLA.
+- Developed Master Templates for Microsoft Small and Medium businesses (SMB) and co-managed website migration for Emerging Markets for Microsoft Enterprise.
+- Worked on campaigns for newly released spin-offs that targeted Google products such as Microsoft Excel versus Google Sheets. Also worked on campaigns for Microsoft Office 365 subscriptions and Microsoft Windows (OS). Localized, migrated and reviewed over 30 websites.
 
 ### Web Designer and Developer
 Province of Camarines Sur and Republ1c.inc
 August 2010 - September 2012
+- Reported directly to the CEO and then governor of Camarines Sur, Lray Villafuerte.
+- Designed and developed microsites for the province
+- Collaborated with Web Development team, Brand Architects and Graphic Designers in designing and developing the e-commerce website for Republ1c
+- Developed the e-commerce website with Magento technology
+- Managed Social Media pages
 
-###  Creative Designer
+
+###  Creative Designer (Rich Media ads)
 Wideout Technology Services Inc.
 May 2010 - July 2011
+- Animate and Develop Creatives for Google Doubleclick
+- Design Internal Marketing Materials
+- Develop Flash Creatives for Oggi Finoggi (Seattle)
