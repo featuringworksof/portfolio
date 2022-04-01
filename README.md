@@ -1,6 +1,6 @@
-> **👷🏽‍♀️  Site is still under construction.**
+> **👷🏽‍♀️  Site is still under construction. This is hosted in Github Pages.**
 
-# Welcome to Portfolio of Rizza Louise Sy
+# 👋🏼  Welcome to Portfolio of Rizza Louise Sy
 
 **Designing experiences with focus on aesthetics, usability and accessibility.**
 
@@ -13,7 +13,7 @@ Designer with over 12 years of experience
 About: User Experience, Design Operations, Design Systems, Human-Centered Design, Components Design and Documentation, Systems Design, Frontend Development, Prototypes, Design Language
 
 ## Currently studying:
-- Scholarship Deque University
+- Scholarship Deque University for Accessibility
 - Data Analytics by Google (scholarship through Coursera)
 - Systems Thinking - Linkedin
 
