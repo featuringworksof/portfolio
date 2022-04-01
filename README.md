@@ -1,6 +1,12 @@
+> **👷🏽‍♀️ Site is still under construction.**
+
 # Welcome to Portfolio of Rizza Louise Sy
 
-<strong>Designing experiences with focus on aesthetics, usability and accessibility.</strong>
+**Designing experiences with focus on aesthetics, usability and accessibility.**
+
+LinkedIn [profile](https://www.linkedin.com/in/rizzasy/)
+Current Project [DesignSystems.Org](designsystems.org)
+Email <louise@featuringworksof.me>
 
 Designer with over 12 years of experience
 
@@ -15,7 +21,7 @@ About: User Experience, Design Operations, Design Systems, Human-Centered Design
 ## Career Overview
 
 ### Senior UX Designer (Acting Chapter Lead)
-Unified Design Systems, ING Hub
+**Unified Design Systems, ING Hub**<br>
 May 2021 - Present
 - Cocreated design system principles and product definition of Orange Juice, ING’s Global design system, with the POC team before it was formalized on January 2021.
 - Lead the design for Orange Juice Portal Design refresh to launch the new portal as the single source of truth, enhancing the aesthetics, usability and navigation. New features and design are well-received by the team, the Engineering, and Design communities while staying true to being on-brand, accessible and technically-viable.
@@ -24,7 +30,7 @@ May 2021 - Present
 
 
 ###  Design Systems and Operations Lead
-Retail Banking, ING Asia
+**Retail Banking, ING Asia**<br>
 September 2019 - May 2021
 - Lead the creation of the local design system for Retail Banking Philippines and now defunct Retail Banking China. The project was showcased to ING Group to show the value of design system. This lead to the conception of Unified Design Systems program in ING.
 
@@ -37,7 +43,7 @@ September 2019 - May 2021
 - Liaised alignment with other ING retail countries to develop relationships, reuse components from their team and socialize Retail Asia’s contributions to the design system. One highlight could be the Conversational UI components that is successfully adapted by Global OneChat team that will be used across 14 retail countries.
 
 ###  Senior Product Designer/Product Manager
-Ziff Davis LeadsRUs (ZDLRU)
+**Ziff Davis LeadsRUs (ZDLRU)**<br>
 September 2017 - July 2019
 
 - B2BSignals is an on-demand data platform that uses natural language processing and human oversight which is layered in with its own proprietary data dictionary, resulting in deep insights on companies, role-based contacts and technology product install base information. It is mainly used by sales managers or marketing managers to get buy signals on any company they are targetting.
@@ -49,7 +55,7 @@ September 2017 - July 2019
 
 
 ###  UI/UX Designer - Level 6 (Manager)
-Sun Life of Canada - Philippines
+**Sun Life of Canada - Philippines**<br>
 August 2016 - September 2017
 - Conceptualized applications for the Research and Development team: Designed chatbot app experience, Employee App prototype, Health Insurance app, Geolocation/Geotagging App, Augmented Reality app, etc. Designed 8 prototypes that were reviewed and approved for production for Sun Life of Canada
 
@@ -64,8 +70,8 @@ August 2016 - September 2017
 - Implemented the use of Sketch, Invision and Framer to increase speed on delivery and improve design presentation to stakeholders
 
 ###  Designer - UX
-Freelancer LTD Philippines
-November 2014 - August 2016
+**Freelancer LTD Philippines**<br>
+November 2014 - August 2016<br>
 Freelancer.com (Freelancer Technology Pty Limited - ACN 142 189 759) is the world's largest freelancing and crowdsourcing marketplace, connecting over 16 Million members globally.
 
 - Worked on Information Architecture - Navigation and Content Strategy of Freelancer.com
@@ -86,15 +92,14 @@ Projects Completed and Accomplishments:
 - Experience map of Freelancer.com Messaging
 
 Skills Employed:
-User Research - Ethnography, User Testing
-Build Prototype and Wireframes - Keynote, Sketch 3, Axure RP, Invision and Pixate
-Stakeholder Interviews
-Usage Analysis
-- 
+- User Research - Ethnography, User Testing
+- Build Prototype and Wireframes - Keynote, Sketch 3, Axure RP, Invision and Pixate
+- Stakeholder Interviews
+- Usage Analysis
 
 ### UX Designer
-Project-based
-Entertainment Gateway Group (EGG - Subsidiary of Globe Telecom)
+**Project-based** <br>
+**Entertainment Gateway Group (EGG - Subsidiary of Globe Telecom)**<br>
 March 2014 - July 2014
 - Direct report to the Engineering Manager. Worked with the Marketing and Engineering teams in defining the business requirements.
 - Provided design direction to a team of 4 iOS engineers, 3 Android engineers, 2 QAs and one graphic designer.
@@ -103,8 +108,8 @@ March 2014 - July 2014
 - Iterated through collaborative design with the engineers. Produced high level wireframes, mockups and prototypes that meet brand standards, user goals and business objectives. Defined UI patterns, visual standards and interaction design for web and mobile.
 
 ###  Digital Lead
-Wunderman Philippines
-October 2012 - April 2014
+**Wunderman Philippines**<br>
+October 2012 - April 2014<br>
 - Led a team of Senior Developers (1 from the Philippines and 4 from India).
 - Responsible for assigning tasks/tickets, peer-reviewing, and coaching best design practice and optimal frontend development.
 - Managed Blogs for Microsoft (Asia Futures Magazine) and coordinated changes with the Head of Marketing of Microsoft - Singapore.
@@ -114,7 +119,7 @@ October 2012 - April 2014
 - Worked on campaigns for newly released spin-offs that targeted Google products such as Microsoft Excel versus Google Sheets. Also worked on campaigns for Microsoft Office 365 subscriptions and Microsoft Windows (OS). Localized, migrated and reviewed over 30 websites.
 
 ### Web Designer and Developer
-Province of Camarines Sur and Republ1c.inc
+**Province of Camarines Sur and Republ1c.inc**<br>
 August 2010 - September 2012
 - Reported directly to the CEO and then governor of Camarines Sur, Lray Villafuerte.
 - Designed and developed microsites for the province
@@ -124,7 +129,7 @@ August 2010 - September 2012
 
 
 ###  Creative Designer (Rich Media ads)
-Wideout Technology Services Inc.
+**Wideout Technology Services Inc.**<br>
 May 2010 - July 2011
 - Animate and Develop Creatives for Google Doubleclick
 - Design Internal Marketing Materials
