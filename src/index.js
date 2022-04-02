@@ -3,6 +3,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "./assets/scss/main.scss";
 import React, { Component } from 'react';
+import { HashRouter } from "react-router-dom";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
@@ -10,3 +11,4 @@ ReactDOM.render(<App />, document.getElementById("root"));
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+

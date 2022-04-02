@@ -8,6 +8,8 @@ import "aos/dist/aos.css";
 import { Helmet } from "react-helmet";
 // import { jarallax } from "jarallax";
 import AnimatedCursor from "react-animated-cursor";
+import { render } from "node-sass";
+import { HashRouter, Route, Link } from "react-router-dom";
 
 const App = () => {
   useEffect(() => {
@@ -18,11 +20,11 @@ const App = () => {
   return (
     <>
       <Helmet>
-        <title>Moonex - Portfolio & Agency React Template</title>
-        <meta name="description" content="Portfolio & Agency React Template" />
+        <title>Rizza Louise Sy</title>
+        <meta name="description" content="Rizza Louise Sy - Design Systems, ING" />
         <meta
           name="keywords"
-          content="agency, bootstrap 5, business, clean, corporate, creative, fullpage, minimal, modern, multipurpose, parallax, personal, photography, portfolio, showcase"
+          content="User Experience, Design Operations, Design Systems, Human-Centered Design, Components Design and Documentation, Systems Design, Frontend Development, Prototypes, Design Language"
         />
       </Helmet>
       {/* End React Helmet for SEO */}
@@ -45,5 +47,7 @@ const App = () => {
     </>
   );
 };
+
+
 
 export default App;
